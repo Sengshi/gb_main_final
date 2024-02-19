@@ -1,0 +1,15 @@
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\gb_main_final.exe
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\gb_main_final.deps.json
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\gb_main_final.runtimeconfig.json
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\gb_main_final.dll
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\ref\gb_main_final.dll
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\bin\Debug\net6.0\gb_main_final.pdb
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.csproj.AssemblyReference.cache
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.AssemblyInfoInputs.cache
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.AssemblyInfo.cs
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.csproj.CoreCompileInputs.cache
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.dll
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\ref\gb_main_final.dll
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.pdb
+C:\Users\Aloster\Desktop\gb_main_final\gb_main_final\gb_main_final\obj\Debug\net6.0\gb_main_final.genruntimeconfig.cache
