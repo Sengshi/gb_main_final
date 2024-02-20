@@ -29,11 +29,11 @@ namespace FilterArrayByStringLength
             }
 
             // Удаление пустых элементов из отфильтрованного массива
-            Array.Resize(ref filteredArray, filteredIndex);
+            //Array.Resize(ref filteredArray, filteredIndex);
 
             // Вывод отфильтрованного массива строк
-            Console.WriteLine("Отфильтрованный массив строк:");
             string result = string.Join(",", filteredArray);
+            Console.WriteLine("Отфильтрованный массив строк:");
             Console.WriteLine(result);
         }
 
