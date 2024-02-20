@@ -29,7 +29,7 @@ namespace FilterArrayByStringLength
             }
 
             // Удаление пустых элементов из отфильтрованного массива
-            //Array.Resize(ref filteredArray, filteredIndex);
+            Array.Resize(ref filteredArray, filteredIndex);
 
             // Вывод отфильтрованного массива строк
             string result = string.Join(",", filteredArray);
